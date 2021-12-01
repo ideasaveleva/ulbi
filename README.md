@@ -1,23 +1,5 @@
-<<<<<<< HEAD
-# ulbi
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
+An educational application that uses: creating, receiving, deleting, searching, sorting, pagination, decomposition, mixins, animations, directives, modifiers, composition api.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# ulbi-git
->>>>>>> a4ec55e (Initial commit)
+
