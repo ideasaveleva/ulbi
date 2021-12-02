@@ -1,6 +1,6 @@
 <template>
 	<div v-if="posts.length > 0">
-		<h3>Cписок пользователей</h3>
+		<h3>Cписок постов</h3>
 		<transition-group name="user-list">
 			<post-item
 				v-for="post in posts"
